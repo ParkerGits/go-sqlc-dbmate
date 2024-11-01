@@ -1,6 +1,6 @@
 # go-sqlc-dbmate
 
-This repository contains the code written as part of [this YouTube video: SQL Queries & Migrations Made Easy for your Go Projects with dbmate + sqlc](https://img.youtube.com/vi/-7f1_h-Nves/sddefault.jpg)
+This repository contains the code written as part of [this YouTube video: SQL Queries & Migrations Made Easy for your Go Projects with dbmate + sqlc](https://www.youtube.com/watch?v=-7f1_h-Nves)
 
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/-7f1_h-Nves/sddefault.jpg)](https://www.youtube.com/watch?v=-7f1_h-Nves)
 
