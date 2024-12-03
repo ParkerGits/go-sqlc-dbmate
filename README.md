@@ -1,8 +1,8 @@
 # SQL Queries & Migrations Made Easy for your Go Projects with dbmate + sqlc
 
-This repository contains the code written as part of [this YouTube video: SQL Queries & Migrations Made Easy for your Go Projects with dbmate + sqlc](https://www.youtube.com/watch?v=-7f1_h-Nves)
+This repository contains the code written as part of [this YouTube video: Craft Beautiful REST APIs with Controller-Service-Repository & Dependency Injection](https://www.youtube.com/watch?v=Fkvu_QDt5xk)
 
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/-7f1_h-Nves/sddefault.jpg)](https://www.youtube.com/watch?v=-7f1_h-Nves)
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/Fkvu_QDt5xk/sddefault.jpg)](https://www.youtube.com/watch?v=Fkvu_QDt5xk)
 
 ## Getting started
 
