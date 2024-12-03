@@ -1,4 +1,4 @@
-# SQL Queries & Migrations Made Easy for your Go Projects with dbmate + sqlc
+# Craft Beautiful REST APIs with Controller-Service-Repository & Dependency Injection
 
 This repository contains the code written as part of [this YouTube video: Craft Beautiful REST APIs with Controller-Service-Repository & Dependency Injection](https://www.youtube.com/watch?v=Fkvu_QDt5xk)
 
