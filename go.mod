@@ -2,4 +2,7 @@ module github.com/ParkerGits/go-db-starter
 
 go 1.23.2
 
-require github.com/mattn/go-sqlite3 v1.14.24 // indirect
+require (
+	github.com/mattn/go-sqlite3 v1.14.24 // indirect
+	go.uber.org/mock v0.5.0 // indirect
+)
